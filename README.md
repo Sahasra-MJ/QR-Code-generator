@@ -28,8 +28,8 @@ A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 🔗 API Used
 
   This project uses the QR Code Generator API by goqr.me:
-
-      "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example";
+  
+      https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example
   It generates a 150x150 QR image with the input data.
   
   No API key required — works instantly and is free to use.
